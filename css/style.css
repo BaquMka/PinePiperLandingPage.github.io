@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+  a{
+    text-decoration: none;
+  }
+  li{
+    list-style: none;
+  }
+  header{
+    width: 100%;
+    background: #007765;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+  }
+  .header_logo1{
+    margin-top: 20px;
+    margin-bottom: 19px;
+  }
+  nav{
+    margin-top: 28px;
+    margin-bottom: 27px;
+  }
+  .topnav a{
+    color:#FFF;
+    text-align: center;
+    padding: 6px;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .main_Jumbotron{
+    background: url(https://b.radikal.ru/b04/1907/7c/7d26a030ecaa.png);
+    min-height: 400px;
+  }
+  .main_Jumbotron h1{
+    color: #FFFF;
+    font-size: 72px;
+    padding-top: 160px;
+    text-align: center;
+  }
+  .navigation{
+    color: #007765;
+    font-size:64px;
+    padding-top: 48px;
+    text-align: center;
+  }
+  .main_TheProblem{
+    background: #EEEEEE; 
+  }
+  .container{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .main_TheProblem p{
+    font-size: 32px;
+    margin-top: 0.5em; 
+    margin-bottom: 1em;
+  }
+  .main_Hero{
+    background: url(https://d.radikal.ru/d19/1907/3c/030ca647d985.png);
+    min-height: 400px;
+  }
+  .main_Hero h2{
+    color: #FFFF;
+    font-size: 48px;
+    padding-top: 128px;
+    text-align: center;
+  }
+  .main_PPC{
+    background: #FFFFFF;
+  }
+  .main_PPC p{
+    font-size: 32px;
+    margin-top: 0.5em; 
+    margin-bottom: 1em;
+  }
+  .text_logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .text_logo .text_after{
+    width: 85%;
+  }
+  .main_TheTeam{
+    background: #EEEEEE;
+    text-align: center;
+  }
+  .team_cards1{
+    padding-top: 32px;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+  }
+  .team_cards2{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+  }
+  .name{
+    color: #007765;
+    font-size: 24px;
+    text-align: center;
+  }
+  .main_TheTeam p{
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+  }
+  footer{
+    background: #333333;
+  }
+  .footer_text{
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 50px 220px 50px 220px;
+    text-align: center;
+  }
+  

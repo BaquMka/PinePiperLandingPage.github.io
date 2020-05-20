@@ -39,7 +39,7 @@
     width: 100%;
   }
   .main_Jumbotron{
-    background:url('https://b.radikal.ru/b04/1907/7c/7d26a030ecaa.png');
+    background:url("https://b.radikal.ru/b04/1907/7c/7d26a030ecaa.png");
     min-height: 400px;
   }
   .main_Jumbotron h1{
@@ -68,7 +68,7 @@
     margin-bottom: 1em;
   }
   .main_Hero{
-    background:url('https://d.radikal.ru/d19/1907/3c/030ca647d985.png');
+    background:url("https://d.radikal.ru/d19/1907/3c/030ca647d985.png");
     min-height: 400px;
   }
   .main_Hero h2{
